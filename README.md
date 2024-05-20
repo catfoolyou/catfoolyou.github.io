@@ -4,4 +4,4 @@ I was too lazy to make something decent so I slapped this together in less than 
 
 As of April 2, 2024 the website has been migrated here: [https://github.com/catfoolyou/Website-v2](https://github.com/catfoolyou/Website-v2)
 
-A live demo is available [here](https://cfydev.github.io/website-v2/)
+A live demo is available [here](https://cfydev.github.io/Website-v2/)
